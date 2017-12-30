@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:/Users/deep1/PycharmProjects/nn_multi_tensorflow/data/parameters.ckpt"
+all_model_checkpoint_paths: "C:/Users/deep1/PycharmProjects/nn_multi_tensorflow/data/parameters.ckpt"
